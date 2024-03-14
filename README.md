@@ -4,8 +4,8 @@ In the realm of evaluating large language models, automated LLM-based evaluation
 
 ## LLM-based evaluators
 
-| Title & Authors                                              | Venue         | Year | Citation Count | Code                                                         |
-| ------------------------------------------------------------ | ------------- | ---- | -------------- | ------------------------------------------------------------ |
+| Title & Authors                                              | Venue         | Year | Citation Count | Code                                                         | Summary |
+| ------------------------------------------------------------ | ------------- | ---- | -------------- | ------------------------------------------------------------ |---------|
 | [**Chateval: Towards better llm-based evaluators through multi-agent debate**](https://arxiv.org/abs/2308.07201) by Chi-Min Chan, Weize Chen, Yusheng Su, Jianxuan Yu, Wei Xue, Shanghang Zhang, Jie Fu, Zhiyuan Liu | ICLR          | 2024 | 87             | [GitHub](https://github.com/thunlp/ChatEval)                 |
 | [**Dyval: Graph-informed dynamic evaluation of large language models**](https://arxiv.org/abs/2309.17167) by Kaijie Zhu, Jiaao Chen, Jindong Wang, Neil Zhenqiang Gong, Diyi Yang, Xing Xie | ICLR          | 2024 | 6              | [GitHub](https://github.com/microsoft/promptbench)           |
 | [**PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization**](https://openreview.net/pdf?id=5Nn2BLV7SB) by Yidong Wang, Zhuohao Yu, Zhengran Zeng, Linyi Yang, Wenjin Yao, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang | ICLR          | 2024 | 52             | [GitHub](https://github.com/WeOpenML/PandaLM)                |
